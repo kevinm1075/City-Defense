@@ -1,10 +1,13 @@
 # City-Defense
-The focus of this project was in developing game systems such as combat, user interface, menus, and a wave-based spawner for enemies. All art assets were obtained through the Unity store. 
+The focus of this project was in developing game systems such as combat, user interface, menus, and a wave-based spawner for enemies. All art assets with the exception of the UI were obtained through the Unity store. 
 
 In order to comply with the Unity Store Asset Store agreement, any non-original assets have been removed from the repository.
 
 #How to play
 ###Download(.7z): [Click Here](https://github.com/kevinm1075/City-Defense/blob/master/CityDefense.7z?raw=true)
+**Compatibility:** 
+- Operating System: Windows XP or higher.   
+- Monitor: 16:9 Resolution
 
 #Objective
 The city is being attacked by invading monsters, and it is the players job to defend it! Monsters will be attacking in waves,
